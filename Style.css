@@ -1,0 +1,35 @@
+
+
+body{
+      background: linear-gradient(
+        300deg,
+      #FFFFFF 0%,
+      #448AD7 100%
+      
+      );
+
+      background-attachment: fixed;
+}
+
+.H1{
+  text-align: center;
+  font-weight: bold;
+  font-size: 21px;
+  color:white;
+}
+
+
+.Label1{
+  color:white;
+  font-size:18px;
+  font-weight: bold;
+}
+
+.nav-link{
+  color:white;
+  font-weight:bold;
+}
+
+.btn{
+  background:white;
+}
